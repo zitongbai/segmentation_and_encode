@@ -1,0 +1,2 @@
+# segmentation_and_encode
+北航宇航学院大二数据结构大作业
