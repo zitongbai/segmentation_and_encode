@@ -7,6 +7,12 @@
 
 :warning:注意：如果你不是使用这里的CMakeLists.txt进行编译，请设置你的IDE，使其将编译生成的可执行文件放在本项目的根目录下。
 
+使用Photoshop打开彩色的raw图像时，配置如下
+
+<div align="center">
+    <img src="md_files/PS.png" style="width: 400px;">
+</div>
+
 ## 文件结构
 
 * `main.c` 主程序
