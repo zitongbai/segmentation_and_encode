@@ -149,9 +149,8 @@ $$
 以下是经过Ostu方法阈值分割后得到的结果，我们将感兴趣的目标区域标记为白色，背景区域标记为黑色：
 
 <div align="center">
-    <img src="md_files/002_Ostu.png" style="width: 400px;">
+    <img src="md_files/002_ostu.png" style="width: 400px;">
 </div>
-
 
 可以看到，经过Ostu方法阈值分割后，我们成功地将感兴趣的目标区域与背景区域分离出来了。但是由于方法本身的限制，仍然存在一些噪声，如需达到更好的效果，可能需要采用更加复杂的方法，例如深度学习的Faster R-CNN等方法，这不在本文的讨论之中。
 
